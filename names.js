@@ -1000,7 +1000,6 @@ const SURNAMES = [
     "Dzenga",
     "Sibiya"];
 
-
 const FIRST_NAMES = [
     "John",
     "Maria",
@@ -2003,7 +2002,7 @@ const FIRST_NAMES = [
     "Edias",
     "Bornface"];
 
-
-
     exports.FIRST_NAMES = FIRST_NAMES;
     exports.SURNAMES = SURNAMES;
+
+    // I edited this from Github VS code
